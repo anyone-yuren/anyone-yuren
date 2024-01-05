@@ -47,13 +47,13 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/steven.png" />
+<img align="right" width="120" src="https://raw.githubusercontent.com/anyone-yuren/multiway/master/WechatIMG112.jpeg" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;大家好，我是G-大雨。</p>
+<p>&emsp;&emsp;热爱编程、烹饪、阅读、健身。</p>
+<p>&emsp;&emsp;再小的事，坚持做，认真做，总会有收获。</p>
+<p><strong>&emsp;&emsp;今天是2023年最后一天，又是一年一次的跨年，很高兴，我今年还在，是度难关的一年。</strong></p>
+<p><strong>&emsp;&emsp;有一件事情是确定的，亲历了这一年的风风雨雨无论是不甘也好，满足也好，怨恨也好感激也好，孤独也好，喜悦也好都已属于过去，过去的人和事，塑造曾经，也激励将来，可能是的枷锁，也可能是的台阶</strong></p>
 
 </td></tr>
 
@@ -61,20 +61,31 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://www.mw-r.com/uploads/images/20230807/83f4778d1a10d4539e70295ee5413077.svg" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- [multiway](https://www.mw-r.com/) &emsp; 📌 2022-09-28 —— Now
   
-  - 工作岗位：Web前端开发工程师（初级）
-  - 工作内容：GIS相关
+  - 工作岗位：Web主管
+  - 工作内容：wms、3D数字孪生、HMI、天眼系统、前端团队体系建设。
+<img align="right" width="88" src="https://cdn.shoplazza.com/51afa2c2ea96ac248dededf372226b71_180x.svg" />
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [shoplazza](https://www.shoplazza.cn/) &emsp; 📌 2022-05-04 —— 2022-09-12
+  - 工作岗位：Senior Engineer
+  - 工作内容：开发者中心建设，插件开发：extends维保插件、Klaviyo邮件营销插件
   
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+<img align="right" width="88" src="https://bi.hjcloud.com/static/icons/whaleBI-light.svg" />
 
+- [浩鲸](https://bi.hjcloud.com/company/) &emsp; 📌 2020-05-04 —— 2022-04-30
+
+  - 工作岗位：Senior Engineer
+  - 工作内容：国际业务线项目开发
+  
+<img align="right" width="88" src="https://qxb-logo-url-osscache.qixin.com/OriginalUrl/42386c08cd081343471bdb295d6aaa70.jpg" />
+
+- [三元达控股有限公司]() &emsp; 📌 2026-11-07 —— 2020-04-30
+  
+  - 工作岗位：大前端主管
+  - 工作内容：智慧城市产品、项目开发
 </td></tr>
 
 <tr><td>
@@ -84,11 +95,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25
+* <a href="/post/7256964915133694008" target="_blank" rel="" title="制造业领域，我是如何被逼到做顶级架构设计的"  data-v-65b50b51="" data-v-3f4438ce="">制造业领域，我是如何被逼到做顶级架构设计的</a> - 2023-09-03
+* <a href="/post/7250318500882432057" target="_blank" rel="" title="3D数字孪生 - Three.js 项目实战之相机控制器（五）" class="jj-link title" data-v-65b50b51="" data-v-3f4438ce="">3D数字孪生 - Three.js 项目实战之相机控制器（五）</a> - 2023-12-09
+* <a href="/post/7248545082130169893" target="_blank" rel="" title="3D数字孪生 - Three.js 项目实战之相机（四）" class="jj-link title" data-v-65b50b51="" data-v-3f4438ce="">3D数字孪生 - Three.js 项目实战之相机（四）</a> - 2023-10-15
+* <a href="/post/7246657502842945597" target="_blank" rel="" title="3D数字孪生 - Three.js 项目实战之场景材质（三）" class="jj-link title" data-v-65b50b51="" data-v-3f4438ce="">3D数字孪生 - Three.js 项目实战之场景材质（三）</a>- 2023-09-26
+* <<a href="/post/7246316652048269373" target="_blank" rel="" title="3D数字孪生 - Three.js 项目实战之场景光源（二）" class="jj-link title" data-v-65b50b51="" data-v-3f4438ce="">3D数字孪生 - Three.js 项目实战之场景光源（二）</a> - 2023-08-25
+* <a href="/post/7244894506305536057" target="_blank" rel="" title="3D数字孪生 - Three.js 项目介绍与基础环境搭建（一）" class="jj-link title" data-v-65b50b51="" data-v-3f4438ce="">3D数字孪生 - Three.js 项目介绍与基础环境搭建（一）</a> - 2023-08-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
