@@ -234,9 +234,7 @@ Mac                      16 hrs 23 mins      ███████████�
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/github-metrics/base.svg" />
+
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/anyone-yuren/anyone-yuren/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
